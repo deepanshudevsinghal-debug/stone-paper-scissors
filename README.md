@@ -6,9 +6,24 @@ This project demonstrates core JavaScript concepts like DOM manipulation, event 
 ---
 
 ## 🚀 Live Demo
- https://deepanshudevsinghal-debug.github.io/stone-paper-scissors/
+  https://deepanshudevsinghal.github.io/stone-paper-scissors/
 
----
+----
+
+ ## 🚀 Github Repository
+
+ Project Source Code :
+ https://github.com/deepanshudevsinghal/stone-paper-scissors.git
+
+----
+
+## 🚀 Screenshots
+
+## 📸 Preview
+
+![Game UI](Stone-Paper-Scissors-Screenshot.png)
+
+----
 
 ## 📌 Features
 
